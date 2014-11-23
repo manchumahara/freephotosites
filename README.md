@@ -1,4 +1,4 @@
-freephotosites
+Free Photo Sites
 ==============
 
 Free Photo Sites
