@@ -7,8 +7,6 @@ A
 -
 http://abstractinfluence.com/forums/stock-photos-ac2.html
 
-http://acobox.com
-
 http://adigitaldreamer.com/gallery/
 
 B
@@ -17,17 +15,12 @@ http://budgetstockphoto.com/index.html
 
 C
 -
-http://canv.as
 
 http://cepolina.com/freephoto/
 
 D
 -
 http://www.deviantart.com
-
-http://designpacks.com/Image_Catalog/
-
-http://dougitdesign.com/downloads.html 
 
 E
 -
@@ -86,6 +79,8 @@ K
 -
 http://kavewall.com/stock/index.html
 
+https://krozobjektiv.com/
+
 L
 -
 
@@ -104,6 +99,8 @@ http://openphoto.net
 
 P
 -
+http://pexels.com
+
 http://pdphoto.org
 
 http://photl.com
@@ -142,6 +139,8 @@ http://rgbstock.com
 S
 -
 http://splitshire.com
+
+http://stocksnap.io
 
 http://stockvault.net
 
@@ -190,5 +189,7 @@ Shemul - http://fb.com/shemul13
 Sinbad Konick's - http://fb.com/SinbadisSailor
 
 BeDesigner Group - https://facebook.com/groups/bedesigner/
+
+Stefan Pejcic - https://github.com/stefanpejcic
 
 
