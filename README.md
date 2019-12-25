@@ -84,7 +84,6 @@ J
 
 K
 -
-http://kavewall.com/stock/index.html
 
 L
 -
@@ -95,7 +94,6 @@ http://morguefile.com
 
 N
 -
-http://nationsillustrated.com
 
 
 O
@@ -106,19 +104,11 @@ P
 -
 http://pdphoto.org
 
-http://photl.com
-
 http://photoeverywhere.co.uk
 
 http://photogen.com/free-photos/free-stock-photo-category/all/
 
 http://photorack.net/index.php 
-
-http://photoree.com
-
-http://photorogue.com
-
-http://photovaco.com
 
 http://piccsy.com
 
@@ -163,12 +153,6 @@ W
 -
 http://wallpaperstop.com
 
-http://weheartit.com
-
-http://woophy.com
-
-http://wallbase.cc
-
 X
 -
 
@@ -177,18 +161,4 @@ Y
 
 Z
 -
-
---
-Contributors
---
-Sabuj Kundu - https://github.com/manchumahara
-
-Mamun Srizon - http://dribbble.com/srizon
-
-Shemul - http://fb.com/shemul13
-
-Sinbad Konick's - http://fb.com/SinbadisSailor
-
-BeDesigner Group - https://facebook.com/groups/bedesigner/
-
 
