@@ -17,8 +17,6 @@ http://budgetstockphoto.com/index.html
 
 C
 -
-http://canv.as
-
 http://cepolina.com/freephoto/
 
 D
