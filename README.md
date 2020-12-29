@@ -10,11 +10,19 @@ http://adigitaldreamer.com/gallery/
 
 B
 -
+https://burst.shopify.com/
+
 http://budgetstockphoto.com/index.html 
 
 C
 -
+https://www.canva.com/photos/free/
+
+https://crello.com/
+
 http://cepolina.com/freephoto/
+
+https://createherstock.com/free-stock-photos/
 
 D
 -
@@ -22,12 +30,16 @@ http://www.deviantart.com
 
 http://dougitdesign.com/downloads.html 
 
+https://deathtothestockphoto.com/join/
+
 E
 -
 http://everystockphoto.com
 
 F
 -
+
+https://www.freeimages.com/
 
 http://flickr.com/creativecommons/ 
 
@@ -51,6 +63,8 @@ G
 -
 http://gratisography.com
 
+https://www.gettyimages.com/resources/embed
+
 H
 -
 http://historicalstockphotos.com 
@@ -63,14 +77,21 @@ http://imageafter.com
 
 http://imcreator.com/free/
 
+https://www.istockphoto.com/
+
+https://images.superfamous.com/
+
 J
 -
+https://jopwell.pixieset.com/
 
 K
 -
+https://kaboompics.com/
 
 L
 -
+https://www.lifeofpix.com/
 
 M
 -
@@ -78,7 +99,7 @@ http://morguefile.com
 
 N
 -
-
+https://nos.twnsnd.co/
 
 O
 -
@@ -86,6 +107,11 @@ http://openphoto.net
 
 P
 -
+
+https://picjumbo.com/
+
+https://www.pexels.com/
+
 http://pdphoto.org
 
 http://photoeverywhere.co.uk
@@ -116,6 +142,8 @@ http://splitshire.com
 http://stockvault.net
 
 http://sxc.hu
+
+https://stocksnap.io/
 
 T
 -
