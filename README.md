@@ -25,8 +25,6 @@ D
 -
 http://www.deviantart.com
 
-http://designpacks.com/Image_Catalog/
-
 http://dougitdesign.com/downloads.html 
 
 E
