@@ -110,13 +110,9 @@ http://photogen.com/free-photos/free-stock-photo-category/all/
 
 http://photorack.net/index.php 
 
-http://piccsy.com
-
 http://picjumbo.com
 
 http://pixabay.com
-
-http://pixelperfectdigital.com/
 
 http://public-domain-photos.com
 
