@@ -63,8 +63,6 @@ G
 -
 http://gratisography.com
 
-http://geekphilosopher.com/MainPage/photos.htm
-
 H
 -
 http://historicalstockphotos.com 
