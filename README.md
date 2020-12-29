@@ -35,7 +35,6 @@ http://everystockphoto.com
 
 F
 -
-http://ffffound.com/
 
 http://flickr.com/creativecommons/ 
 
@@ -45,11 +44,7 @@ http://freedigitalphotos.net
 
 http://freeforcommercialuse.net/13/
 
-http://freefoto.com
-
 http://freeimages.co.uk 
-
-http://freepixels.com
 
 http://freerangestock.com/index.php
 
