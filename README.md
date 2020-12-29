@@ -5,9 +5,6 @@ However this is a list of free stock images, but all images on those sites may n
 
 A
 -
-http://abstractinfluence.com/forums/stock-photos-ac2.html
-
-http://acobox.com
 
 http://adigitaldreamer.com/gallery/
 
