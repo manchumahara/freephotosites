@@ -75,8 +75,6 @@ I
 -
 http://imageafter.com
 
-http://imagebase.davidniblack.com/main.php
-
 http://imcreator.com/free/
 
 J
