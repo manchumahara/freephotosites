@@ -5,29 +5,32 @@ However this is a list of free stock images, but all images on those sites may n
 
 A
 -
-http://abstractinfluence.com/forums/stock-photos-ac2.html
-
-http://acobox.com
 
 http://adigitaldreamer.com/gallery/
 
 B
 -
+https://burst.shopify.com/
+
 http://budgetstockphoto.com/index.html 
 
 C
 -
-http://canv.as
+https://www.canva.com/photos/free/
+
+https://crello.com/
 
 http://cepolina.com/freephoto/
+
+https://createherstock.com/free-stock-photos/
 
 D
 -
 http://www.deviantart.com
 
-http://designpacks.com/Image_Catalog/
-
 http://dougitdesign.com/downloads.html 
+
+https://deathtothestockphoto.com/join/
 
 E
 -
@@ -35,7 +38,10 @@ http://everystockphoto.com
 
 F
 -
-http://ffffound.com/
+
+https://freephotos.cc/en
+
+https://www.freeimages.com/
 
 http://flickr.com/creativecommons/ 
 
@@ -45,11 +51,7 @@ http://freedigitalphotos.net
 
 http://freeforcommercialuse.net/13/
 
-http://freefoto.com
-
 http://freeimages.co.uk 
-
-http://freepixels.com
 
 http://freerangestock.com/index.php
 
@@ -63,7 +65,7 @@ G
 -
 http://gratisography.com
 
-http://geekphilosopher.com/MainPage/photos.htm
+https://www.gettyimages.com/resources/embed
 
 H
 -
@@ -75,19 +77,25 @@ I
 -
 http://imageafter.com
 
-http://imagebase.davidniblack.com/main.php
-
 http://imcreator.com/free/
+
+https://www.istockphoto.com/
+
+https://images.superfamous.com/
+
+https://interfacelift.com/wallpaper/downloads/date/any/
 
 J
 -
+https://jopwell.pixieset.com/
 
 K
 -
-http://kavewall.com/stock/index.html
+https://kaboompics.com/
 
 L
 -
+https://www.lifeofpix.com/
 
 M
 -
@@ -95,8 +103,7 @@ http://morguefile.com
 
 N
 -
-http://nationsillustrated.com
-
+https://nos.twnsnd.co/
 
 O
 -
@@ -104,9 +111,12 @@ http://openphoto.net
 
 P
 -
-http://pdphoto.org
 
-http://photl.com
+https://picjumbo.com/
+
+https://www.pexels.com/
+
+http://pdphoto.org
 
 http://photoeverywhere.co.uk
 
@@ -114,19 +124,9 @@ http://photogen.com/free-photos/free-stock-photo-category/all/
 
 http://photorack.net/index.php 
 
-http://photoree.com
-
-http://photorogue.com
-
-http://photovaco.com
-
-http://piccsy.com
-
 http://picjumbo.com
 
 http://pixabay.com
-
-http://pixelperfectdigital.com/
 
 http://public-domain-photos.com
 
@@ -147,6 +147,8 @@ http://stockvault.net
 
 http://sxc.hu
 
+https://stocksnap.io/
+
 T
 -
 
@@ -163,12 +165,6 @@ W
 -
 http://wallpaperstop.com
 
-http://weheartit.com
-
-http://woophy.com
-
-http://wallbase.cc
-
 X
 -
 
@@ -177,18 +173,4 @@ Y
 
 Z
 -
-
---
-Contributors
---
-Sabuj Kundu - https://github.com/manchumahara
-
-Mamun Srizon - http://dribbble.com/srizon
-
-Shemul - http://fb.com/shemul13
-
-Sinbad Konick's - http://fb.com/SinbadisSailor
-
-BeDesigner Group - https://facebook.com/groups/bedesigner/
-
 
