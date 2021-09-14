@@ -6,6 +6,9 @@ However this is a list of free stock images, but all images on those sites may n
 A
 -
 
+http://abstractinfluence.com/forums/stock-photos-ac2.html
+
+
 http://adigitaldreamer.com/gallery/
 
 B
@@ -16,9 +19,11 @@ http://budgetstockphoto.com/index.html
 
 C
 -
+
 https://www.canva.com/photos/free/
 
 https://crello.com/
+
 
 http://cepolina.com/freephoto/
 
@@ -28,9 +33,11 @@ D
 -
 http://www.deviantart.com
 
+
 http://dougitdesign.com/downloads.html 
 
 https://deathtothestockphoto.com/join/
+
 
 E
 -
@@ -93,6 +100,8 @@ K
 -
 https://kaboompics.com/
 
+https://krozobjektiv.com/
+
 L
 -
 https://www.lifeofpix.com/
@@ -111,6 +120,11 @@ http://openphoto.net
 
 P
 -
+
+http://pexels.com
+
+http://pdphoto.org
+
 
 https://picjumbo.com/
 
@@ -143,6 +157,8 @@ S
 -
 http://splitshire.com
 
+http://stocksnap.io
+
 http://stockvault.net
 
 http://sxc.hu
@@ -174,3 +190,18 @@ Y
 Z
 -
 
+
+--
+Contributors
+--
+Sabuj Kundu - https://github.com/manchumahara
+
+Mamun Srizon - http://dribbble.com/srizon
+
+Shemul - http://fb.com/shemul13
+
+Sinbad Konick's - http://fb.com/SinbadisSailor
+
+BeDesigner Group - https://facebook.com/groups/bedesigner/
+
+Stefan Pejcic - https://github.com/stefanpejcic
