@@ -6,9 +6,6 @@ However this is a list of free stock images, but all images on those sites may n
 A
 -
 
-http://abstractinfluence.com/forums/stock-photos-ac2.html
-
-
 http://adigitaldreamer.com/gallery/
 
 B
@@ -23,9 +20,6 @@ C
 https://www.canva.com/photos/free/
 
 https://crello.com/
-
-
-http://cepolina.com/freephoto/
 
 https://createherstock.com/free-stock-photos/
 
@@ -100,8 +94,6 @@ K
 -
 https://kaboompics.com/
 
-https://krozobjektiv.com/
-
 L
 -
 https://www.lifeofpix.com/
@@ -142,8 +134,6 @@ http://picjumbo.com
 
 http://pixabay.com
 
-http://public-domain-photos.com
-
 http://public-domain-image.com 
 
 Q
@@ -155,7 +145,6 @@ http://rgbstock.com
 
 S
 -
-http://splitshire.com
 
 http://stocksnap.io
 
